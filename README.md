@@ -1,2 +1,2 @@
-# Data-science-capstone-with-IBM-
+# Data-science-capstone-project-with-IBM
 Training course: a set of assignments with Python for Data Science: cleaning data, scraping from the web, visualizing, machine learning and so on ... 
